@@ -5,8 +5,7 @@ The GPU driver install part at this moment supports only the Nvidia drivers, but
 After that we will need to remove some old libraries that Davinci carries with itself after the installation and then it will fully work on your Fedora 39.
 
 
-**1) Installing the correct dependencies **
-
+**1) Installing the correct dependencies**
 This part is inside the "Davinci-PRE-INSTALL-FIX-Fedora-39.sh" file. To use it you need to :
 - Open a terminal window.
 - Write *" sudo chmod +x "*.
