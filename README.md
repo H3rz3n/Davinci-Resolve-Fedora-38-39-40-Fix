@@ -49,9 +49,8 @@ After that, just double click on it and follow the installation wizard.
 
 
 **4) Fix up the Davinci Resolve Libraries**
-**1) Installing the correct dependencies **
 This part is inside the "Davinci-POST-INSTALL-FIX-Fedora-39.sh" file. To use it you need to :
-Open a terminal windows.
+- Open a terminal windows.
 - Write *" sudo chmod +x "*.
 - Drag and drop the file inside the window.
 - Press enter, enter your password.
