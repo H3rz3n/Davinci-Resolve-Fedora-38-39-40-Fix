@@ -8,7 +8,7 @@ After that we will need to remove some old libraries that Davinci carries with i
 **1) Installing the correct dependencies**
 This part is inside the "Davinci-PRE-INSTALL-FIX-Fedora-39.sh" file. To use it you need to :
 - Open a terminal window.
-- Write *" sudo chmod +x "*.
+- Write *" chmod +x "*.
 - Drag and drop the file inside the window.
 - Press enter, enter your password.
 - Write *" sudo "*.
@@ -19,6 +19,7 @@ If you want to use the command manually you will need to do the following steps 
 - *sudo dnf install libxcrypt-compat*
 - *sudo dnf install libcurl libcurl-devel*
 - *sudo dnf install mesa-libGLU*
+``sh" sudo dnf install libxcrypt-compat libcurl libcurl-devel mesa-libGLU"```
 
 
 
