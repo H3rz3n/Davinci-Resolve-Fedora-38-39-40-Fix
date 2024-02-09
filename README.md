@@ -19,7 +19,8 @@ If you want to use the command manually you will need to do the following steps 
 - *sudo dnf install libxcrypt-compat*
 - *sudo dnf install libcurl libcurl-devel*
 - *sudo dnf install mesa-libGLU*
-``sh" sudo dnf install libxcrypt-compat libcurl libcurl-devel mesa-libGLU"```
+
+```sh" sudo dnf install libxcrypt-compat libcurl libcurl-devel mesa-libGLU"```
 
 
 
