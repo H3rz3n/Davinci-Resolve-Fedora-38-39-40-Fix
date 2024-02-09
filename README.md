@@ -56,7 +56,7 @@ sudo dnf install xorg-x11-drv-nvidia-cuda
 **3) Install Davinci Resolve**
 Install Davinci Resolve using the built-in installer. Unzip it, then do the following :
 - Write `chmod +x `.
-- Drag and drop the file `Davinci_Resolve_XXXX_.run"` inside the window.
+- Drag and drop the file `Davinci_Resolve_XXXX_.run` inside the window.
 - Press enter, write your user password.
 After that, just double click on it and follow the installation wizard.
 
