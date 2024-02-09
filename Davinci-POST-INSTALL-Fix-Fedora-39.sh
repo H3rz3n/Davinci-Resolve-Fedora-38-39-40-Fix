@@ -1,10 +1,10 @@
 #!/bin/bash
 
 cd /opt/resolve/libs
-mkdir disabled-libraries
-mv libglib* disabled-libraries
-mv libgio* disabled-libraries
-mv libgmodule* disabled-libraries
+sudo mkdir disabled-libraries
+sudo mv libglib* disabled-libraries
+sudo mv libgio* disabled-libraries
+sudo mv libgmodule* disabled-libraries
 
 
 
