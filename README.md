@@ -9,7 +9,7 @@ After that we will need to remove some old libraries that Davinci carries with i
 This part is inside the "Davinci-PRE-INSTALL-FIX-Fedora-39.sh" file. To use it you need to :
 - Open a terminal window.
 - Write ``` chmod +x ```.
-- Drag and drop the file inside the window.
+- Drag and drop the script file inside the window.
 - Press enter, enter your password.
 - Drag and drop the script file inside the terminal window.
 - Press enter, enter your password and wait until the script terminates to work.
