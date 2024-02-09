@@ -6,7 +6,7 @@ After that we will need to remove some old libraries that Davinci carries with i
 
 ---
 
-**1) Installing the correct dependencies**
+## 1) Installing the correct dependencies
 
 This part is inside the `Davinci-PRE-INSTALL-FIX-Fedora-39.sh` file. To use it you need to :
 - Open a terminal window.
@@ -24,7 +24,7 @@ sudo dnf install libxcrypt-compat libcurl libcurl-devel mesa-libGLU
 
 ---
 
-**2) Installing the correct Nvidia GPU Driver (For those who have and Nvidia GPU ONLY)**
+## 2) Installing the correct Nvidia GPU Driver (For those who have and Nvidia GPU ONLY)
 
 To install the Official Closed Source Nvidia drivers you will need to do the following steps :
 
@@ -55,7 +55,7 @@ sudo dnf install xorg-x11-drv-nvidia-cuda
 
 ---
 
-**3) Install Davinci Resolve**
+## 3) Install Davinci Resolve
 
 Install Davinci Resolve using the built-in installer. Unzip it, then do the following :
 - Write `chmod +x `.
@@ -65,7 +65,7 @@ After that, just double click on it and follow the installation wizard.
 
 ---
 
-**4) Fix up the Davinci Resolve Libraries**
+## 4) Fix up the Davinci Resolve Libraries
 
 This part is inside the `Davinci-POST-INSTALL-FIX-Fedora-39.sh` file. To use it you need to :
 - Open a terminal windows.
