@@ -86,4 +86,4 @@ sudo mv libgmodule* disabled-libraries
 
 ---
 
-Now you have a perfectly functional Davinci Resolve on your Fedora 39. Let me know if you find some issues or you have some suggestion to improve the code or if there are new fixing necessities with the updates. 
+Now you have a perfectly functional Davinci Resolve on your Fedora 38-39-40. Let me know if you find some issues or you have some suggestion to improve the code or if there are new fixing necessities with the updates. 
