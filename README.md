@@ -1,6 +1,6 @@
 
 > [!WARNING]
-> **This repository is now in standby. Very soon a will publish a more complete version with a multilanguage GUI, GPU driver cheker functions, fix of the broken zlib during installation and so more. Please have patience, I'm working on it every time I can. Thank you for reading and supporting the project.
+> **This repository is now in standby. Very soon a will publish a more complete version with a multilanguage GUI, GPU driver cheker functions, fix of the broken zlib during installation and so more. Please have patience, I'm working on it every time I can. If you have idea for new useful functions or information about other missing/broken dependecies please let me know opening an issue. Thank you for reading and supporting the project.
 Lorenzo Maiuri**.
 
 
