@@ -1,6 +1,6 @@
 
 > [!WARNING]
-> **This repository is now archived. Very soon a will publish a more complete version with a GUI multilanguage, GPU driver cheker functions, fix of the broken zlib during installation and so more. Please have patience, I'm working on it every time I can. Thank you for reading and supporting the project.
+> **This repository is now archived. Very soon a will publish a more complete version with a multilanguage GUI, GPU driver cheker functions, fix of the broken zlib during installation and so more. Please have patience, I'm working on it every time I can. Thank you for reading and supporting the project.
 Lorenzo Maiuri**.
 
 
