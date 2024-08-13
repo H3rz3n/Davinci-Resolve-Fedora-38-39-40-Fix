@@ -1,6 +1,6 @@
 
 > [!WARNING]
-> **This repository is now in standby. Now is out a more complete version with a multilanguage GUI, GPU driver checker functions, fix of the broken zlib during installation and so more. https://github.com/H3rz3n/davinci-helper/tree/main Thank you for reading and supporting the project.**
+> **This repository is now in standby. Now is out a more complete version with a multilanguage GUI, GPU driver checker functions, fix of the broken zlib during installation and so more. https://github.com/H3rz3n/davinci-helper/ Thank you for reading and supporting the project.**
 **-- Lorenzo Maiuri**.
 
 
