@@ -4,9 +4,9 @@
 **-- Lorenzo Maiuri**.
 
 
+# This is deprecated, follow the instructions in the banner !
 
-
-# ~Davinci Resolve 18.6 Fedora 38-39-40 Install Guide~~
+## Davinci Resolve 18.6 Fedora 38-39-40 Install Guide
 
 Following this guide you will be able to install and make Davinci Resolve fully functional on Fedora 38-39-40.
 Before downloading and installing Davinci Resolve we will need to install some important dependencies and the correct GPU driver.
